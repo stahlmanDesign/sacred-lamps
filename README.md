@@ -1,6 +1,6 @@
 #README
 
-Sacred Lamps is a HTML5 remake originally written on the Apple II in 1990. It uses the ImpactJS game engine. It also uses the impact-node server instead of Impact's built-in PHP solution for the Weltmeister editor and for baking.
+Sacred Lamps is a HTML5 remake originally written on the Apple II in 1990. It requires adding the ImpactJS game engine folder to src/lib/. It also uses the impact-node server instead of Impact's built-in PHP solution for the Weltmeister editor and for baking.
 
 #The game
 
